@@ -2,6 +2,8 @@ Weather App 🌤️
 
 A simple, responsive weather application built using React + Vite that displays the current weather information for any city in the world. This project is part of my portfolio to showcase my frontend development skills.
 
+[Live Demo](https://lyal178-weather.netlify.app/)
+
 Features
 
     🌍 Search for current weather by city name.
