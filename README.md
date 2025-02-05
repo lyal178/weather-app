@@ -1,6 +1,6 @@
 Weather App 🌤️
 
-A simple, responsive weather application built using React that displays the current weather information for any city in the world. This project is part of my portfolio to showcase my frontend development skills.
+A simple, responsive weather application built using React + Vite that displays the current weather information for any city in the world. This project is part of my portfolio to showcase my frontend development skills.
 
 Features
 
