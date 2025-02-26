@@ -4,6 +4,7 @@ const HourlyForecast = ({ hourly }) => {
   const isNight = (hour) => {
     return hour.dt < hourly.city.sunrise || hour.dt > hourly.city.sunset;
   };
+  
   return (
     <div className={`${styles.card} ${styles.hourlyCard}`}>
       <h2>Hourly forecast</h2>

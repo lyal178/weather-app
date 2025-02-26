@@ -26,7 +26,7 @@ function Header({ city, setCity, fetchWeatherByCity, fetchWeatherByLocation }) {
           <input
             className={styles.searchInput}
             type="text"
-            placeholder="Enter city name"
+            placeholder="Enter city"
             value={city}
             onChange={(e) => setCity(e.target.value)}
           />
